@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @James-Lagda 
+- 👋 Hi, I’m @James-Lagda BS Computer Science Graduate
 - 👀 I’m interested in designing also games and stuffs
-- 🌱 I’m currently learning UI/UX Design
+- 🌱 I hope to be an aspiring Data Analyst
+- and i'm currently learning things like My SQL, Excel and Tableu
 
 <!---
 James-Lagda/James-Lagda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
