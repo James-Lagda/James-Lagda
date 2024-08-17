@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James Irvin Lagda a BS Computer Science Graduate
-- 👀 I’m interested in designing also games and stuffs
+- 👀 I am also interested in designing games and stuffs such the use of blender and figma
 - 🌱 I hope to be an aspiring Data Analyst and i'm currently learning things like My SQL, Excel and Tableu
 - Weblink: https://james-lagda.github.io/James-Personal-Website/
 
